@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Preventive Maintenance System (PMS) — High-Fidelity Prototype (Figma)
 
 This repository stores the **Figma source file** (`.fig`) and basic folders for a Preventive Maintenance System (PMS) UI/UX. It focuses on clear, production-ready flows for maintenance teams, keeping the structure light so reviewers can access the design quickly.
